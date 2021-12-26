@@ -31,7 +31,7 @@ They will be automatically added if the Rachio integration is loaded.
 ## Getting your Rachio API Key
 
 1. Log in at [https://app.rach.io/](https://app.rach.io/).
-2. Go to **Settings**.
+2. Go to **Account Settings**.
 3. Click **Get API Key**.
 4. Copy the API key from the dialog that opens.
 
